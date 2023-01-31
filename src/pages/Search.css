@@ -1,0 +1,21 @@
+*{
+
+}
+.SearchSec{
+    height: 100px;
+    padding: 10px 20px;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.SearchSec input{
+    margin: auto 20px;
+    height: 50px;
+    padding: 10px 20px;
+    width: 400px;
+    border: none;
+    outline: none;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}

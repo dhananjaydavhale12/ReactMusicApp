@@ -1,0 +1,33 @@
+.Head{
+    font-size: 18px;
+    color: rgb(34, 34, 34);
+    padding: 10px 20px;
+    background-color: rgba(153, 153, 153, 0.355);
+}
+.Container {
+    background-color: #f1f1f1;
+    display: flex;
+    flex-wrap: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.Container .MCard{
+    background-color: #fff;
+    height: 160px;
+    width: 120px;
+    overflow: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    border-radius: 10px;
+    margin: 25px 20px;
+}
+.Container .MCard img{
+    height: 110px;
+    width: 120px;
+    border-radius: 10px;
+}
+.Container .MCard p{
+    margin-top: 10px;
+    text-align: center;
+    color: rgb(47, 47, 47);
+    padding: 3px;
+}
